@@ -12,7 +12,7 @@ It calculates totals including delivery rules and special offers.
 - Fully Dockerized environment
 
 ## Prerequisites
-- Docker & Docker Compose (no local PHP required)
+- Docker, Docker Compose and git (no local PHP needed)
 
 ## Setup
 - Execute `make build` command to setup the project
