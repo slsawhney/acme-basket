@@ -14,3 +14,6 @@ It calculates totals including delivery rules and special offers.
 ## Requirements
 - Docker & Docker Compose (no local PHP required)
 
+## Setup
+```bash
+make build
