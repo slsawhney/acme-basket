@@ -1,0 +1,7 @@
+services:
+  acme-basket:
+    build: .
+    container_name: acme-basket
+    volumes:
+      - .:/app
+    working_dir: /app
